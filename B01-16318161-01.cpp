@@ -15,7 +15,7 @@ int main ()
 	
 	string REAL;
 	
-	cout << " Do you like Video games? " << endl ;
+	cout << " Do you like Video games? test " << endl ;
 	cout << "YES/NO" << endl ;
 	cin >> YES;
 	cout << " Buy a PC " << endl;
